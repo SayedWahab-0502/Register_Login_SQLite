@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Register_Login_SQLite</string>
+    <string name="username">Enter Username</string>
+    <string name="mail">Enter Mail ID</string>
+    <string name="password">Enter Password</string>
+    <string name="register">Register</string>
+</resources>
